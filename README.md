@@ -1,6 +1,6 @@
 # Kor-Sentence-Similarity
 
-## Sentence Similarity for Korean (In Simple Way)
+## Sentence/Text Similarity for Korean (In Simple Way)
 
 ### Models
 - Modification of [Siamese recurrent architectures for learning sentence similarity](https://dl.acm.org/citation.cfm?id=3016291)
